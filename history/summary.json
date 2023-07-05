@@ -58,19 +58,19 @@
     "url": "https://fishing-card-server.s2tek.net/health",
     "icon": "https://icons.duckduckgo.com/ip3/fishing-card-server.s2tek.net.ico",
     "slug": "s2tek-stable-fs-server",
-    "status": "down",
-    "uptime": "72.83%",
-    "uptimeDay": "72.83%",
-    "uptimeWeek": "72.83%",
-    "uptimeMonth": "72.83%",
-    "uptimeYear": "72.83%",
-    "time": 679,
-    "timeDay": 679,
-    "timeWeek": 679,
-    "timeMonth": 679,
-    "timeYear": 679,
+    "status": "up",
+    "uptime": "67.27%",
+    "uptimeDay": "67.27%",
+    "uptimeWeek": "67.27%",
+    "uptimeMonth": "67.27%",
+    "uptimeYear": "67.27%",
+    "time": 691,
+    "timeDay": 691,
+    "timeWeek": 691,
+    "timeMonth": 691,
+    "timeYear": 691,
     "dailyMinutesDown": {
-      "2023-07-05": 96
+      "2023-07-05": 125
     }
   }
 ]
