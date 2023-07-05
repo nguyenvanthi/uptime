@@ -2,13 +2,13 @@ owner: nguyenvanthi
 repo: uptime
 
 sites:
-  - name: Trio User Service
+  - name: "[Trio Stable] User Service"
     url: https://user-service.trio.s2tek.net/health
-  - name: Trio Gateway Service
+  - name: "[Trio Stable] Gateway Service"
     url: https://gateway-service.trio.s2tek.net/health
-  - name: Trio CMS Client
+  - name: "[Trio Stable] CMS Client"
     url: https://cms-client.trio.s2tek.net/
-  - name: S2tek FS Server
+  - name: "[S2tek Stable] FS Server"
     url: https://fishing-card-server.s2tek.net/health
     
 status-website:
