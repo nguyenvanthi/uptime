@@ -3,9 +3,9 @@ repo: uptime
 
 sites:
   - name: Trio User Service
-    url: https://user-service.trio.s2tek.net/
+    url: https://user-service.trio.s2tek.net/health
   - name: Trio Gateway Service
-    url: https://gateway-service.trio.s2tek.net/
+    url: https://gateway-service.trio.s2tek.net/health
   - name: Trio CMS Client
     url: https://cms-client.trio.s2tek.net/
 
