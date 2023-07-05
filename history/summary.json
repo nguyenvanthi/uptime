@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 763,
-    "timeDay": 763,
-    "timeWeek": 763,
-    "timeMonth": 763,
-    "timeYear": 763,
+    "time": 766,
+    "timeDay": 766,
+    "timeWeek": 766,
+    "timeMonth": 766,
+    "timeYear": 766,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 735,
-    "timeDay": 735,
-    "timeWeek": 735,
-    "timeMonth": 735,
-    "timeYear": 735,
+    "time": 738,
+    "timeDay": 738,
+    "timeWeek": 738,
+    "timeMonth": 738,
+    "timeYear": 738,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 729,
-    "timeDay": 729,
-    "timeWeek": 729,
-    "timeMonth": 729,
-    "timeYear": 729,
+    "time": 736,
+    "timeDay": 736,
+    "timeWeek": 736,
+    "timeMonth": 736,
+    "timeYear": 736,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "S2tek FS Server",
+    "url": "https://fishing-card-server.s2tek.net/",
+    "icon": "https://icons.duckduckgo.com/ip3/fishing-card-server.s2tek.net.ico",
+    "slug": "s2tek-fs-server",
+    "status": "down",
+    "uptime": "21.63%",
+    "uptimeDay": "21.63%",
+    "uptimeWeek": "21.63%",
+    "uptimeMonth": "21.63%",
+    "uptimeYear": "21.63%",
+    "time": 763,
+    "timeDay": 763,
+    "timeWeek": 763,
+    "timeMonth": 763,
+    "timeYear": 763,
+    "dailyMinutesDown": {
+      "2023-07-05": 0
+    }
   }
 ]
