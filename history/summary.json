@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/user-service.trio.s2tek.net.ico",
     "slug": "trio-user-service",
     "status": "up",
-    "uptime": "4.19%",
-    "uptimeDay": "4.19%",
-    "uptimeWeek": "4.19%",
-    "uptimeMonth": "4.19%",
-    "uptimeYear": "4.19%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 759,
     "timeDay": 759,
     "timeWeek": 759,
     "timeMonth": 759,
     "timeYear": 759,
-    "dailyMinutesDown": {
-      "2023-07-05": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Trio Gateway Service",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway-service.trio.s2tek.net.ico",
     "slug": "trio-gateway-service",
     "status": "up",
-    "uptime": "2.57%",
-    "uptimeDay": "2.57%",
-    "uptimeWeek": "2.57%",
-    "uptimeMonth": "2.57%",
-    "uptimeYear": "2.57%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 749,
     "timeDay": 749,
     "timeWeek": 749,
     "timeMonth": 749,
     "timeYear": 749,
-    "dailyMinutesDown": {
-      "2023-07-05": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Trio CMS Client",
