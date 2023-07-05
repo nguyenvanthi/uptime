@@ -2,11 +2,11 @@ owner: nguyenvanthi
 repo: uptime
 
 sites:
-  - name: [Trio] User Service
+  - name: Trio User Service
     url: https://user-service.trio.s2tek.net/
-  - name: [Trio] Gateway Service
+  - name: Trio Gateway Service
     url: https://gateway-service.trio.s2tek.net/
-  - name: [Trio] CMS Client
+  - name: Trio CMS Client
     url: https://cms-client.trio.s2tek.net/
 
 status-website:
