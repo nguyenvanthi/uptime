@@ -8,7 +8,9 @@ sites:
     url: https://gateway-service.trio.s2tek.net/health
   - name: Trio CMS Client
     url: https://cms-client.trio.s2tek.net/
-
+  - name: S2tek FS Server
+    url: https://fishing-card-server.s2tek.net/
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
