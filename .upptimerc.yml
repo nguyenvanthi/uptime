@@ -18,6 +18,8 @@ sites:
     url: https://fishing-card-server.s2tek.net/health
   - name: "[S2tek Stable] FS Client"
     url: https://fishing-card-client.s2tek.net
+  - name: "[NAS] Synology"
+    url: https://nas.s2tek.net
     
 status-website:
   baseUrl: /uptime
