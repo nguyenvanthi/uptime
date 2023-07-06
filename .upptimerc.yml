@@ -2,6 +2,12 @@ owner: nguyenvanthi
 repo: uptime
 
 sites:
+  - name: "[Trio UAT] User Service"
+    url: https://user.uat.s2tek.net/health
+  - name: "[Trio UAT] Gateway Service"
+    url: https://gateway.uat.s2tek.net/health
+  - name: "[Trio UAT] CMS Client"
+    url: https://cms.uat.s2tek.net/
   - name: "[Trio Stable] User Service"
     url: https://user-service.trio.s2tek.net/health
   - name: "[Trio Stable] Gateway Service"
