@@ -2,21 +2,21 @@ owner: nguyenvanthi
 repo: uptime
 
 sites:
-  - name: "[Trio UAT] User Service"
-    url: https://user.uat.s2tek.net/health
-  - name: "[Trio UAT] Gateway Service"
-    url: https://gateway.uat.s2tek.net/health
-  - name: "[Trio UAT] CMS Client"
-    url: https://cms.uat.s2tek.net/
-  - name: "[Trio Stable] User Service"
+  - name: "[Trio Beta] User Service"
+    url: https://user-service.uat.s2tek.net/health
+  - name: "[Trio Beta] Gateway Service"
+    url: https://gateway-service.uat.s2tek.net/health
+  - name: "[Trio Beta] CMS Client"
+    url: https://gateway-service.uat.s2tek.net/health
+  - name: "[Trio Alpha] User Service"
     url: https://user-service.trio.s2tek.net/health
-  - name: "[Trio Stable] Gateway Service"
+  - name: "[Trio Alpha] Gateway Service"
     url: https://gateway-service.trio.s2tek.net/health
-  - name: "[Trio Stable] CMS Client"
+  - name: "[Trio Alpha] CMS Client"
     url: https://cms-client.trio.s2tek.net/
-  - name: "[S2tek Stable] FS Server"
+  - name: "[S2tek Alpha] FS Server"
     url: https://fishing-card-server.s2tek.net/health
-  - name: "[S2tek Stable] FS Client"
+  - name: "[S2tek Alpha] FS Client"
     url: https://fishing-card-client.s2tek.net
   - name: "[NAS] Synology"
     url: https://nas.s2tek.net
