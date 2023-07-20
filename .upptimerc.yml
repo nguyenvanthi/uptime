@@ -7,7 +7,7 @@ sites:
   - name: "[Trio Beta] Gateway Service"
     url: https://gateway-service.uat.s2tek.net/health
   - name: "[Trio Beta] CMS Client"
-    url: https://cms-client.uat.s2tek.net/health
+    url: https://cms-client.uat.s2tek.net/
   - name: "[Trio Alpha] User Service"
     url: https://user-service.trio.s2tek.net/health
   - name: "[Trio Alpha] Gateway Service"
