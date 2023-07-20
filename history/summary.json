@@ -22,19 +22,19 @@
     "url": "https://gateway-service.uat.s2tek.net/health",
     "icon": "https://icons.duckduckgo.com/ip3/gateway-service.uat.s2tek.net.ico",
     "slug": "trio-beta-gateway-service",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 688,
-    "timeDay": 669,
-    "timeWeek": 682,
-    "timeMonth": 688,
-    "timeYear": 688,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 689,
+    "timeDay": 675,
+    "timeWeek": 684,
+    "timeMonth": 689,
+    "timeYear": 689,
     "dailyMinutesDown": {
-      "2023-07-20": 4
+      "2023-07-20": 18
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://gateway-service.trio.s2tek.net/health",
     "icon": "https://icons.duckduckgo.com/ip3/gateway-service.trio.s2tek.net.ico",
     "slug": "trio-alpha-gateway-service",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 678,
-    "timeDay": 645,
-    "timeWeek": 666,
-    "timeMonth": 678,
-    "timeYear": 678,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 683,
+    "timeDay": 666,
+    "timeWeek": 673,
+    "timeMonth": 683,
+    "timeYear": 683,
     "dailyMinutesDown": {
-      "2023-07-20": 4
+      "2023-07-20": 18
     }
   },
   {
