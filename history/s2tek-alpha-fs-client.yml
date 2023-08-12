@@ -1,7 +1,7 @@
 url: https://fishing-card-client.s2tek.net
-status: up
-code: 200
-responseTime: 718
-lastUpdated: 2023-08-12T04:49:02.265Z
+status: down
+code: 503
+responseTime: 729
+lastUpdated: 2023-08-12T05:12:09.826Z
 startTime: Sun Jul 09 2023 12:17:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
