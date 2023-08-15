@@ -1,7 +1,7 @@
 url: https://fishing-card-server.s2tek.net/health
-status: down
-code: 503
-responseTime: 778
-lastUpdated: 2023-08-15T07:38:02.753Z
+status: up
+code: 200
+responseTime: 588
+lastUpdated: 2023-08-15T07:55:21.006Z
 startTime: Sun Jul 09 2023 12:17:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
