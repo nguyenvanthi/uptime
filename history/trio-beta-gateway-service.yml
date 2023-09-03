@@ -1,7 +1,7 @@
 url: https://gateway-service.uat.s2tek.net/health
 status: up
 code: 200
-responseTime: 764
-lastUpdated: 2023-09-02T23:10:11.005Z
+responseTime: 679
+lastUpdated: 2023-09-03T23:10:39.570Z
 startTime: 2023-07-09T12:17:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
