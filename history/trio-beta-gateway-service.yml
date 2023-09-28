@@ -1,7 +1,7 @@
 url: https://gateway-service.uat.s2tek.net/health
 status: down
 code: 503
-responseTime: 751
-lastUpdated: 2023-09-27T23:11:00.777Z
+responseTime: 647
+lastUpdated: 2023-09-28T23:11:06.386Z
 startTime: 2023-07-09T12:17:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
