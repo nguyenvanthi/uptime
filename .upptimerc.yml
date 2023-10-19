@@ -18,8 +18,10 @@ sites:
     url: https://fishing-card-server.s2tek.net/health
   - name: "[S2tek Alpha] FS Client"
     url: https://fishing-card-client.s2tek.net
-  - name: "[NAS] Synology"
+  - name: "[DevOps] Synology"
     url: https://nas.s2tek.net
+  - name: "[DevOps] Prometheus"
+    url: https://prometheus.s2tek.net/status
     
 status-website:
   baseUrl: /uptime
