@@ -1,7 +1,7 @@
 url: https://user-service.uat.s2tek.net/health
-status: down
-code: 504
-responseTime: 15912
-lastUpdated: 2023-11-12T02:41:50.882Z
+status: up
+code: 200
+responseTime: 842
+lastUpdated: 2023-11-12T03:16:11.139Z
 startTime: 2023-07-09T12:17:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
