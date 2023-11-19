@@ -1,7 +1,7 @@
 url: https://cms-client.uat.s2tek.net/
-status: down
-code: 503
-responseTime: 646
-lastUpdated: 2023-11-19T04:29:06.489Z
+status: up
+code: 200
+responseTime: 632
+lastUpdated: 2023-11-19T04:37:46.474Z
 startTime: 2023-07-09T12:17:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
