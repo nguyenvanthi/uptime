@@ -1,7 +1,7 @@
 url: https://user-service.trio.s2tek.net/health
-status: down
-code: 502
-responseTime: 652
-lastUpdated: 2023-11-19T04:29:10.811Z
+status: up
+code: 200
+responseTime: 1501
+lastUpdated: 2023-11-19T06:00:27.612Z
 startTime: 2023-07-09T12:17:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
