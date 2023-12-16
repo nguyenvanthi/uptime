@@ -1,7 +1,7 @@
 url: https://prometheus.s2tek.net/status
-status: up
-code: 200
-responseTime: 711
-lastUpdated: 2023-12-15T23:11:52.190Z
+status: down
+code: 503
+responseTime: 581
+lastUpdated: 2023-12-16T04:28:10.862Z
 startTime: 2023-10-19T16:48:48.779Z
 generator: Upptime <https://github.com/upptime/upptime>
