@@ -1,7 +1,7 @@
 url: https://gateway-service.trio.s2tek.net/health
-status: up
-code: 200
-responseTime: 922
-lastUpdated: 2023-12-26T23:12:48.090Z
+status: down
+code: 502
+responseTime: 808
+lastUpdated: 2023-12-27T04:48:48.493Z
 startTime: 2023-07-09T12:17:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
